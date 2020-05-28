@@ -1,0 +1,109 @@
+body{
+	font: 16px/28px perpetua, didot;
+	background-color: lightgrey;
+	background-image: url(b1.jpg);
+	color: #333;
+}
+.container{
+	width: 800px;
+	margin: auto;
+	background-color: beige;
+}
+.header{
+	padding: 25px;
+	padding-bottom: 0px;
+}
+.header h1{
+	position: absolute;
+	left: 540px;
+}
+.header ul li{
+	display: inline;
+	margin-right: 30px;
+	margin-left: 40px;
+}
+.header a{
+	text-decoration: none;
+	color: grey;
+	padding: 3px;
+}
+.header a:hover{
+	background-color: darkolivegreen;
+	color: white;
+}
+#map { 
+  height: 100vh;
+ }
+
+.b{
+	height: 300px;
+	background-image: url(b.jpg);
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+}
+.content{
+	padding: 20px;
+	padding-bottom: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.hyperlink a{
+  color: steelblue;
+  text-decoration: none;
+}
+.b2{
+	height: 450px;
+	background-image: url(b2.gif);
+}
+.p1{
+  height:500px;
+  background-image: url(wave.jpg); 
+  background-size: 700px;
+}
+.p2{
+  background-image: url(pasut.jpg);
+  height: 530px;
+  background-size: 730px;
+}
+.p3{
+  background-image: url(sstd.jpg);
+  height: 500px;
+  background-size: 717px;
+}
+.p4{
+  background-image: url(wind.jpg);
+  height: 500px;
+  background-size: 750px;
+}
+
+.profile{
+	height: 400px;
+	background-image: url(profile.jpeg);
+	background-size: 600px;
+	background-position: center;
+	border-right: 100px solid beige;
+	border-left: 100px solid beige;
+}
+
+.content .penulis {
+	font-size: 12px;
+	font-weight: bold;
+}
+.content .penulis a{
+	color: mediumseagreen;
+	text-decoration: none;
+}
+.hyperlink a{
+	color: steelblue;
+	text-decoration: none;
+}
+
+.footer .copy{
+	background-color: gainsboro;
+	text-align: center;
+	font-size: 12px;
+}
+.footer .copy a{
+	color: mediumseagreen;
+	text-decoration: none;
+}
