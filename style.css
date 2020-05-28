@@ -35,8 +35,9 @@ body{
   height: 100vh;
  }
 .map{
-  height: 450px;
   background-image: url(map.jpg);
+height: 500px;
+  background-size: 717px;
 }
 .b{
 	height: 300px;
